@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<api context="/data" name="DataMapper" xmlns="http://ws.apache.org/ns/synapse">
+    <resource methods="POST" url-mapping="/mapper">
+        <inSequence>
+            <log separator="/">
+                <property expression="json-eval($.body)" name="payload"/>
+            </log>
+            <datamapper config="gov:datamapper/Wso2DataMapper.dmc" inputSchema="gov:datamapper/Wso2DataMapper_inputSchema.json" inputType="XML" outputSchema="gov:datamapper/Wso2DataMapper_outputSchema.json" outputType="XML" xsltStyleSheet="gov:datamapper/Wso2DataMapper_xsltStyleSheet.xml"/>
+            <respond/>
+        </inSequence>
+        <outSequence/>
+        <faultSequence/>
+    </resource>
+</api>

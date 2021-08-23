@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:datamapper="http:///org/wso2/developerstudio/eclipse/gmf/datamapper" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_XMn5gAQJEeyni_yGeEv7gA" type="DataMapper" name="Wso2DataMapper.datamapper_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_XXtIIAQJEeyni_yGeEv7gA" type="2002" fontName="Segoe UI">
+    <children xmi:type="notation:Shape" xmi:id="_bwfGQAQJEeyni_yGeEv7gA" type="3002" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_bwftUAQJEeyni_yGeEv7gA" type="5002"/>
+      <children xmi:type="notation:Shape" xmi:id="_bwiJkAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_bwiwoAQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_bwmbAAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.0/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwmbAQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bwnCEAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.0/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwnCEQQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwiJkQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bwiwoQQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_bwiwowQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_bwr6kAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.1/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwr6kQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bwr6kgQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.1/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwr6kwQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwiwogQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bwiwpAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_bwiwpgQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_bwwzEAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.2/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwwzEQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bwxaIAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.2/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwxaIQQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwiwpQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bwjXsAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_bwjXsgQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_bw1rkAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw1rkgQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bw59AAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.0/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw59AQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bw59AgQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.0/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw59AwQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw1rkQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw1rkwQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw1rlQQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bw-OcAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.1/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw-OcQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bw-1gAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.1/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw-1gQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw1rlAQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw2SoAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw2SogQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bxDG8AQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.2/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxDG8QQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bxDuAAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.2/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxDuAQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.2"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw2SoQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw2SowQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw2SpQQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bxH_cAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.3/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxH_cQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bxH_cgQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.3/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxH_cwQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.3"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw2SpAQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw2SpgQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw25sAQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bxNfAAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.4/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxNfAQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bxOGEAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.4/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxOGEQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.4"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw2SpwQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw25sQQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw25swQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bxS-kAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.5/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxS-kQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bxTloAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.5/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxTloQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.5"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw25sgQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw25tAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_bw25tgQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_bxZFMAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.6/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxZFMQQJEeyni_yGeEv7gA" x="-11" y="-9"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_bxZsQAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.6/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bxZsQQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.6"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw25tQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw3gwAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw3gwQQJEeyni_yGeEv7gA" x="-1" y="-11"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_bw3gwgQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bw3gwwQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwjXsQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bwjXswQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+        <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@inNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwjXtAQJEeyni_yGeEv7gA" x="-1" y="-11"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_bwj-wAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+        <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@outNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwj-wQQJEeyni_yGeEv7gA"/>
+      </children>
+      <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@input/@treeNode.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bwfGQQQJEeyni_yGeEv7gA"/>
+    </children>
+    <element xmi:type="datamapper:Input" href="Wso2DataMapper.datamapper#//@input"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXtIIQQJEeyni_yGeEv7gA" width="250" height="160"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_XXtvMAQJEeyni_yGeEv7gA" type="2003" fontName="Segoe UI">
+    <children xmi:type="notation:Shape" xmi:id="_eWTR8AQJEeyni_yGeEv7gA" type="3011" fontName="Segoe UI">
+      <children xmi:type="notation:DecorationNode" xmi:id="_eWT5AAQJEeyni_yGeEv7gA" type="5003"/>
+      <children xmi:type="notation:Shape" xmi:id="_eWYxgAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eWZYkAQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_eWcb4AQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.0/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWcb4QQJEeyni_yGeEv7gA" x="-10" y="4"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWcb4gQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.0/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWcb4wQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.0"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWYxgQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eWZYkQQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eWZYkwQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_eWhUYAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.1/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWhUYQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWhUYgQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.1/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWhUYwQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.1"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWZYkgQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eWZYlAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eWZYlgQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_eWmM4AQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.2/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWmM4QQJEeyni_yGeEv7gA" x="-10" y="4"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWmM4gQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.2/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWmM4wQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.2"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWZYlQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eWZ_oAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+        <children xmi:type="notation:DecorationNode" xmi:id="_eWZ_ogQJEeyni_yGeEv7gA" type="5001"/>
+        <children xmi:type="notation:Shape" xmi:id="_eWrscAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWrscgQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eWwk8AQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.0/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWwk8QQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eWxMAAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.0/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWxMAQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.0"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWrscQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWrscwQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWsTgAQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eW35sAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.1/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eW35sQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eW4gwAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.1/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eW4gwQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.1"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWrsdAQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWsTgQQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWsTgwQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eW8yMAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.2/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eW8yMQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eW9ZQAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.2/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eW9ZQQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.2"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWsTggQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWsThAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWs6kAQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eXCRwAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.3/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXCRwQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eXC40AQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.3/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXC40QQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.3"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWsThQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWs6kQQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWs6kwQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eXIYYAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.4/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXIYYQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eXI_cAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.4/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXI_cQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.4"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWs6kgQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWs6lAQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWs6lgQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eXNQ4AQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.5/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXNQ4QQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eXNQ4gQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.5/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXNQ4wQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.5"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWs6lQQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWs6lwQJEeyni_yGeEv7gA" type="3003" fontName="Segoe UI">
+          <children xmi:type="notation:DecorationNode" xmi:id="_eWthoAQJEeyni_yGeEv7gA" type="5001"/>
+          <children xmi:type="notation:Shape" xmi:id="_eXRiUAQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+            <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.6/@inNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXRiUQQJEeyni_yGeEv7gA" x="-10" y="4"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_eXSJYAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+            <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.6/@outNode"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eXSJYQQJEeyni_yGeEv7gA"/>
+          </children>
+          <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@node.6"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWs6mAQJEeyni_yGeEv7gA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWthoQQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+          <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@inNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWthogQJEeyni_yGeEv7gA" x="-1" y="-11"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_eWuIsAQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+          <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3/@outNode"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWuIsQQJEeyni_yGeEv7gA"/>
+        </children>
+        <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@node.3"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWZ_oQQJEeyni_yGeEv7gA"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eWZ_owQJEeyni_yGeEv7gA" type="3020" fontName="Segoe UI">
+        <element xmi:type="datamapper:InNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@inNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWZ_pAQJEeyni_yGeEv7gA" x="-1" y="-11"/>
+      </children>
+      <children xmi:type="notation:Shape" xmi:id="_eWZ_pQQJEeyni_yGeEv7gA" type="3019" fontName="Segoe UI">
+        <element xmi:type="datamapper:OutNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0/@outNode"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWZ_pgQJEeyni_yGeEv7gA"/>
+      </children>
+      <element xmi:type="datamapper:TreeNode" href="Wso2DataMapper.datamapper#//@output/@treeNode.0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_eWTR8QQJEeyni_yGeEv7gA"/>
+    </children>
+    <element xmi:type="datamapper:Output" href="Wso2DataMapper.datamapper#//@output"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XXtvMQQJEeyni_yGeEv7gA" x="310" width="250" height="160"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_XMn5gQQJEeyni_yGeEv7gA"/>
+  <element xmi:type="datamapper:DataMapperRoot" href="Wso2DataMapper.datamapper#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_f7kmoAQJEeyni_yGeEv7gA" type="4001" source="_bxTloAQJEeyni_yGeEv7gA" target="_eXNQ4AQJEeyni_yGeEv7gA">
+    <styles xmi:type="notation:FontStyle" xmi:id="_f7kmoQQJEeyni_yGeEv7gA" fontName="Segoe UI"/>
+    <element xmi:type="datamapper:DataMapperLink" href="Wso2DataMapper.datamapper#//@input/@treeNode.0/@node.3/@node.5/@outNode/@outgoingLink.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_f7kmogQJEeyni_yGeEv7gA" points="[-2, 0, -252, 0]$[248, 0, -2, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f7o4EAQJEeyni_yGeEv7gA" id="CENTER"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f7o4EQQJEeyni_yGeEv7gA" id="CENTER"/>
+  </edges>
+</notation:Diagram>

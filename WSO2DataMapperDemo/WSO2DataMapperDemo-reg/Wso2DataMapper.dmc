@@ -1,0 +1,28 @@
+map_S_root_S_Student = function(){ 
+var outputStudent={};
+
+outputStudent =  {};
+outputStudent.studentNo = inputroot.studNo;
+outputStudent.studentName = inputroot.studName;
+outputStudent.studentGroup = inputroot.StudGroup;
+outputStudent.studentAddress =  {};
+outputStudent.studentAddress.AddressLine1 = inputroot.studAddress.AddrLine2;
+outputStudent.studentAddress.AddressLine2 = inputroot.studAddress.addrLine1;
+outputStudent.studentAddress.Mandal = inputroot.studAddress.Mandal;
+outputStudent.studentAddress.District = inputroot.studAddress.District;
+outputStudent.studentAddress.State = inputroot.studAddress.State;
+outputStudent.studentAddress.Country = inputroot.studAddress.Country;
+outputStudent.studentAddress.ZIP = inputroot.studAddress.Zip;
+return outputStudent;
+};
+
+
+
+
+
+
+
+
+
+
+

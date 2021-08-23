@@ -1,0 +1,59 @@
+{
+  "$schema" : "http://wso2.org/json-schema/wso2-data-mapper-v5.0.0/schema#",
+  "outputType" : "XSD",
+  "id" : "http://wso2jsonschema.org",
+  "title" : "Student",
+  "type" : "object",
+  "properties" : {
+    "studentNo" : {
+      "id" : "http://wso2jsonschema.org/studentNo",
+      "type" : "string"
+    },
+    "studentName" : {
+      "id" : "http://wso2jsonschema.org/studentName",
+      "type" : "string"
+    },
+    "studentGroup" : {
+      "id" : "http://wso2jsonschema.org/studentGroup",
+      "type" : "string"
+    },
+    "studentAddress" : {
+      "id" : "http://wso2jsonschema.org/studentAddress",
+      "type" : "object",
+      "properties" : {
+        "AddressLine1" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/AddressLine1",
+          "type" : "string"
+        },
+        "AddressLine2" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/AddressLine2",
+          "type" : "string"
+        },
+        "Mandal" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/Mandal",
+          "type" : "string"
+        },
+        "District" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/District",
+          "type" : "string"
+        },
+        "State" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/State",
+          "type" : "string"
+        },
+        "Country" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/Country",
+          "type" : "string"
+        },
+        "ZIP" : {
+          "id" : "http://wso2jsonschema.org/studentAddress/ZIP",
+          "type" : "string"
+        }
+      }
+    }
+  },
+  "namespaces" : [ {
+    "prefix" : "xsi",
+    "url" : "http://www.w3.org/2001/XMLSchema-instance"
+  } ]
+}
